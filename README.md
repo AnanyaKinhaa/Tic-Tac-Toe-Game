@@ -5,4 +5,10 @@ The game window opens up like this:
 
 
 A pop-up message shows when the game is over:
+
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/96624771/221404628-88615ea2-05d1-4ef1-a70d-f919cfc07d75.png)
